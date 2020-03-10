@@ -6,7 +6,7 @@ In the \JSON\JSON Deserializer\bin\Debug you will find the JSON Deserializer.exe
 
 By default the Array + Nested Parser is running which means it will decode a JSON with some nested values (Street Address) and an array (phoneNumbers) as input.
 
-Please use the example JSON format (copy paste) below for testing:
+Please use this example JSON format (copy paste) below for testing. This example is a Serialized JSON String:
 
 ```
 {
