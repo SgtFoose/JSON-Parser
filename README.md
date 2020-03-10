@@ -2,7 +2,7 @@
 Simple C# JSON Parser
 
 This is a simple JSON Parser written for C#. It takes RAW JSON and deserializes it.
-In the \JSON\JSON Deserializer\bin\Debug you will find the JSON Deserializer.exe to run it in Windows 10.
+In the \JSON\JSON Deserializer\bin\Debug folder you will find the JSON Deserializer.exe to run it in Windows 10.
 
 By default the Array + Nested Parser is running which means it will decode a JSON with some nested values (Street Address) and an array (phoneNumbers) as input.
 
