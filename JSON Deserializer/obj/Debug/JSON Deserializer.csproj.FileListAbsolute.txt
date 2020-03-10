@@ -1,0 +1,12 @@
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\obj\Debug\JSON Deserializer.csprojAssemblyReference.cache
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\obj\Debug\JSON_Deserializer.Form1.resources
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\obj\Debug\JSON Deserializer.csproj.GenerateResource.cache
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\bin\Debug\JSON Deserializer.exe.config
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\bin\Debug\JSON Deserializer.exe
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\bin\Debug\JSON Deserializer.pdb
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\obj\Debug\JSON_Deserializer.Properties.Resources.resources
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\obj\Debug\JSON Deserializer.csproj.CopyComplete
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\obj\Debug\JSON Deserializer.exe
+C:\Users\jeroenV\Documents\GitHub\JSON-Parser\JSON Deserializer\obj\Debug\JSON Deserializer.pdb
