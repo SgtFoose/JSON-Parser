@@ -10,13 +10,13 @@ Please use this example JSON format (copy paste) below for testing. This example
 
 ```
 {
-    "firstname" : "Roger",
-    "lastname" : "Moore",
-    "age" : 89,
-    "isAlive" : false,
+    "firstname" : "John",
+    "lastname" : "Doe",
+    "age" : 69,
+    "isAlive" : true,
     "address" : 
     {
-        "streetAddress" : "Sheissestrasse",
+        "streetAddress" : "Kopfstrasse",
         "city" : "Berlin",
         "postCode" : "N1 3XX"
     },
@@ -42,4 +42,6 @@ Strongly-typed JSON was used for the intellisense. I'd recommend class-inheritan
 Any tips and questions are welcome,
 
 Please be kind, i'm a beginner!
+
+Code credits are for Les Jackson https://www.youtube.com/watch?v=CjoAYslTKX0
 
