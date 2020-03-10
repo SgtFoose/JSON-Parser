@@ -35,9 +35,9 @@ Visual Studio Solution:
 In the actual code you can comment-in different versions of the Parser (Simple, Complex, Array and Dynamic).
 The Dynamic will attempt to print-out every kind of JSON format but will throw an error.
 
-The purpose of my code is to show how C# can handle JSON with the use of a package called "newtonfoft.json".
-You have to read the comment in my code to make it working for you JSON format. The purpose is a basic example only.
-Strongly-typed JSON was used for the intellisense. I'd recommend class-inheritance for your code.
+The purpose of this code is to show how C# can handle JSON with the use of a package called "newtonfoft.json".
+You have to read the comment in the code to make it working for you JSON format. The purpose is a basic example only.
+Strongly-typed JSON was used for the intellisense. Recommended is class-inheritance for your code.
 
 Any tips and questions are welcome,
 
