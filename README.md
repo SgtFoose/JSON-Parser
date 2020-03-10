@@ -18,7 +18,6 @@ Please use the example JSON format (copy paste) below for testing:
         "streetAddress" : "Sheissestrasse",
         "city" : "Berlin",
         "postCode" : "N1 3XX"
-
     },
     "phoneNumbers" :
     [
