@@ -8,6 +8,7 @@ By default the Array + Nested Parser is running which means it will decode a JSO
 
 Please use the example JSON format (copy paste) below for testing:
 
+```
 {
     "firstname" : "Roger",
     "lastname" : "Moore",
@@ -25,6 +26,7 @@ Please use the example JSON format (copy paste) below for testing:
         { "type" : "mobile", "number" : "+61 0405 111 222" }
     ]
 }
+```
 
 
 
