@@ -2,9 +2,11 @@
 Simple C# JSON Parser
 
 This is a simple JSON Parser written for C#. It takes RAW JSON and deserializes it.
+In the \JSON\JSON Deserializer\bin\Debug you will find the JSON Deserializer.exe to run it in Windows 10.
 
-By default the Array + Nested Parser is running which means it will decode a JSON with a nested and array input.
-Please use the example below for testing:
+By default the Array + Nested Parser is running which means it will decode a JSON with some nested values (Street Address) and an array (phoneNumbers) as input.
+
+Please use the example JSON format (copy paste) below for testing:
 
 {
     "firstname" : "Roger",
@@ -25,7 +27,11 @@ Please use the example below for testing:
     ]
 }
 
-In the code you can comment-in different versions of the Parser (Simple, Complex, Array and Dynamic).
+
+
+
+Visual Studio Solution:
+In the actual code you can comment-in different versions of the Parser (Simple, Complex, Array and Dynamic).
 The Dynamic will attempt to print-out every kind of JSON format but will throw an error.
 
 The purpose of my code is to show how C# can handle JSON with the use of a package called "newtonfoft.json".
